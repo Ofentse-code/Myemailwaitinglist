@@ -1,2 +1,2 @@
 # Myemailwaitinglist
-Myemailwaitinglist
+https://myemailwaitinglist.netlify.app/
